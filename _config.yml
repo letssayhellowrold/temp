@@ -12,9 +12,9 @@ title                    : "Tang Ying / Site Title"
 title_separator          : "-"
 name                     : &name "Tang Ying"
 description              : &description "Professor"
-url                      : https://jamestang23.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://letssayhellowrold/temp/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://jamestang23.github.io"
+repository               : "letssayhellowrold/letssayhellowrold/temp/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,8 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Tang Ying"
   pronouns         :  "he"  
-  bio              : "Rm 226, Run Run Shaw Building<br>
-					           Department of Statistics and Actuarial Science<br>
+  bio              : "Rm 226, Run Run Shaw Building<br>Department of Statistics and Actuarial Science<br>"
   location         : "ChengDu"
   employer         : "University of Electronic Science and Technology of China"
   uri              : # URL
