@@ -12,9 +12,9 @@ title                    : "Tang Ying / Site Title"
 title_separator          : "-"
 name                     : &name "Tang Ying"
 description              : &description "Professor"
-url                      : https://letssayhellowrold.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://letssayhellowrold.github.io #此处为固定格式：https://用户名.github.io
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "letssayhellowrold/temp"
+repository               : "letssayhellowrold/temp" #此处为仓库路径，格式为：用户名/当前仓库名
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
